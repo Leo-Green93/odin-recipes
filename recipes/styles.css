@@ -1,0 +1,19 @@
+* {
+    font-family: 'Lucida Sans', Garamond, 'Times New Roman';
+    color:brown;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color:blanchedalmond;
+}
+
+
+img {
+    height: auto;
+    width: 600px;
+    border: 5px solid brown
+}
